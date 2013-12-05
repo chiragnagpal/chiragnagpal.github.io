@@ -1,57 +1,52 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
 <html>
 
-  <head>
-    <meta charset='utf-8' />
-    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
-    <meta name="description" content="Chirag Nagpal : Hello World!!" />
+<head>
+  <title>chirag nagpal</title>
+  <meta name="description" content="website description" />
+  <meta name="keywords" content="website keywords, website keywords" />
+  <meta http-equiv="content-type" content="text/html; charset=windows-1252" />
+  <link rel="stylesheet" type="text/css" href="style/style.css" />
+</head>
 
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+<body>
+  <div id="main">
+      
+<div id="header">
+      <div id="logo">
+        <!-- class="logo_colour", allows you to change the colour of the text -->
+        <h1><a href="index.html">chirag<span class="logo_colour"> ~nagpal</span></a></h1>
+        <h2>A Computer Engineer..<br> ..Finding His Way Through Circuits</h2>
+</div>
 
-    <title>Chirag Nagpal</title>
-  </head>
 
-  <body>
-
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/chiragnagpal">View on GitHub</a>
-
-          <h1 id="project_title">Chirag Nagpal</h1>
-          <h2 id="project_tagline">Hello World!!</h2>
-
-        </header>
+<div id="menubar">
+        <ul id="menu">
+          <!-- put class="selected" in the li tag for the selected page - to highlight which page you're on -->
+          <li class="selected"><a href="index.html">Home</a></li>
+          <li><a href="examples.html">BeagleBone</a></li>
+        </ul>
+      </div>
     </div>
-    <div style="float: left;"><img src="images/github.jpg" width=255></div>
-    <!-- MAIN CONTENT -->
-<div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-<a name="College" class="anchor" href="#College"><span class="octicon octicon-link"></span></a>College Assignments on Air.</h3>
-
-<p>As of 18/09/13, I've uploaded my College Codes for Second Year, First Semester of Computer Engineering, Pune University under the repo College-Work. Please note that these are just for educational sake.. incase your stupid enough to simply fork my repo and present them to your professor and get caught for plagiarism..its going to be your own responsibility... I by no means am a proponent of such activity..
-</p>
-     
-
-    
-        <h3>
-<a name="howdy-" class="anchor" href="#howdy-"><span class="octicon octicon-link"></span></a>Howdy !!.</h3>
-
-<p>I'm Chirag, and in my sophomore year of Computer Engineering at the Univeristy of Pune.</p>
-
-<p>Although a software oriented course, however I enjoy working at different levels of abstraction, from Microcontrollers to System Programming and Web Development. I've worked on Arduino and MSP430 Platforms and now I'm exploring Embedded Linux on the BeagleBone Black.</p>
-
-<p>I plan to use GitHub to easily collaborate on my College projects and assignments, and seek or provide (mostly the former) help to the world whenever required or available.</p>
-      </section>
+    <div id="site_content">
+      <div class="sidebar">
+        <h1>BeagleBone</h1>
+        <h4>The BBB GPIO, Simplified</h4>
+        <h5>December 3rd, 2013</h5>
+        <p>A beginners guide to the Beagle Bone Black GPIO.<br /><a href="examples.html">Read more</a></p>
+      </div>
+      <div id="content">
+        <h1>Hi, this is Chirag!</h1>
+	 <center><img src="head.jpg"></center>  
+<br>
+Hey there! Welcome to my home on the World Wide Web. I am Chirag Nagpal, currently in my sophomore year at the <a href="http://www.unipune.ac.in">University of Pune</a>, <a href="http://www.aitpune.com">Army Institute of Technology</a> and majoring in Computer Engineering. I have taken courses in Microprocessor Architecture, Digital Electronics and Operating Systems and my interests include Embedded and Cyber Physical Systems. Generally I can be found out tinkering around with my BeagleBone Black! I plan to use this website to showcase my work on the net. 
+      </div>
     </div>
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
+  <br>
+<div id="logo">  
+<h2>chiragnagpal94@hotmail.com</h2>
 
-    
-
-  </body>
+</div>  
+  </div>
+</body>
 </html>
