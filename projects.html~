@@ -1,6 +1,15 @@
 <!DOCTYPE HTML>
 <html>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
+  ga('create', 'UA-46285748-1', 'chiragnagpal.com');
+  ga('send', 'pageview');
+
+</script>
 <head>
   <title>chirag nagpal</title>
   <meta name="description" content="website description" />
@@ -33,7 +42,7 @@
         <h5>December 6th, 2013</h5>
         <p>I developed an embedded system capable of detecting the level of water in a tank, and automatically triggering a motor.<br><a href="projects.html">Read more</a></p>
  <h4>Morse Code Generator on MSP430</h4>
-        <h5>December 6rd, 2013</h5>
+        <h5>July 6th, 2013</h5>
         <p>A Morse Code Generator using a standard PS/2 Keyboard, an LCD and a Piezo Buzzer with the MSP430 at heart.<br><a href="morse_gen.html">Read more</a></p></li>
 </ul>      
 </div>
