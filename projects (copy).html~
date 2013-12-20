@@ -43,7 +43,7 @@
         <p>Here, I Interfaced servo motors with an Arduino UNO, to control a laser pointer with the laptop.<br><a href="laser_gun.html">Read more</a></p>
 <h4>Water level detector and Motor Controller</h4>
         <h5>December 6th, 2013</h5>
-        <p>I developed an embedded system capable of detecting the level of water in a tank, and automatically triggering a motor.<br><a href="water_level.html">Read more</a></p>
+        <p>I developed an embedded system capable of detecting the level of water in a tank, and automatically triggering a motor.<br><a href="projects.html">Read more</a></p>
  <h4>Morse Code Generator on MSP430</h4>
         <h5>July 6th, 2013</h5>
         <p>A Morse Code Generator using a standard PS/2 Keyboard, an LCD and a Piezo Buzzer with the MSP430 at heart.<br><a href="morse_gen.html">Read more</a></p></li>
@@ -51,20 +51,20 @@
 </div>
       <div id="content">
 <div class="img">
-  <a target="_blank" href="laser_gun.html">
-  <img src="laser.JPG" width="110" height="90">
+  <a target="_blank" href="klematis_big.htm">
+  <img src="klematis_small.jpg" alt="Klematis" width="110" height="90">
   </a>
   <div class="desc">Laser Pointer Controlled With PC Mouse</div>
 </div>
 <div class="img">
-  <a target="_blank" href="water_level.html">
-  <img src="proto.jpg" width="110" height="90">
+  <a target="_blank" href="klematis2_big.htm">
+  <img src="klematis2_small.jpg" alt="Klematis" width="110" height="90">
   </a>
   <div class="desc">Water level detector and Motor Controller</div>
 </div>
 <div class="img">
-  <a target="_blank" href="morse_gen.html">
-  <img src="morsefinal.jpg" width="110" height="90">
+  <a target="_blank" href="klematis3_big.htm">
+  <img src="klematis3_small.jpg" alt="Klematis" width="110" height="90">
   </a>
   <div class="desc">Morse Code Generator on MSP430</div>
 </div>

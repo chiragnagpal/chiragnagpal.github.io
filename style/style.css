@@ -191,9 +191,10 @@ ul#menu li a:hover
   text-decoration: none;} 
 .img
   {
-  margin:5px;
+  margin:25px;
   padding: 5px;
-  border:1px solid #0000ff;
+  border:3px solid  #A4AA04;
+  border-radius:15px;
   height:auto;
   width:auto;
   float:left;

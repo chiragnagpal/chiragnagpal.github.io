@@ -189,6 +189,37 @@ ul#menu li a:hover
 .sidebar li a.selected
 { color: #444;
   text-decoration: none;} 
+.img
+  {
+  margin:25px;
+  padding: 5px;
+  border:3px solid  #A4AA04;
+  border-radius:15px;
+  height:auto;
+  width:auto;
+  float:left;
+  text-align:center;
+  }
+
+.img img
+  {
+  display:inline;
+  margin:5px;
+  border:1px solid #ffffff;
+  }
+
+.img a:hover img
+  {
+  border:1px solid #0000ff;
+  }
+.desc
+  {
+  text-align:center;
+  font-weight:normal;
+  width:120px;
+  margin:5px;
+  }
+
 
 #content
 { text-align: left;
