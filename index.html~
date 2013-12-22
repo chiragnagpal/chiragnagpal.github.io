@@ -35,6 +35,7 @@
           <li class="selected"><a href="index.html">Home</a></li>
 	  <li><a href="projects.html">Projects</a>       
 	  <li><a href="examples.html">BeagleBone</a></li>
+          <li><a href="cv.pdf">Resume</a></li>
         </ul>
       </div>
     </div>

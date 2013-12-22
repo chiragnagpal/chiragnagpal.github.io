@@ -43,7 +43,7 @@
         <p>Here, I Interfaced servo motors with an Arduino UNO, to control a laser pointer with the laptop.<br><a href="laser_gun.html">Read more</a></p>
 <h4>Water level detector and Motor Controller</h4>
         <h5>December 6th, 2013</h5>
-        <p>I developed an embedded system capable of detecting the level of water in a tank, and automatically triggering a motor.<br><a href="projects.html">Read more</a></p>
+        <p>I developed an embedded system capable of detecting the level of water in a tank, and automatically triggering a motor.<br><a href="water_level.html">Read more</a></p>
  <h4>Morse Code Generator on MSP430</h4>
         <h5>July 6th, 2013</h5>
         <p>A Morse Code Generator using a standard PS/2 Keyboard, an LCD and a Piezo Buzzer with the MSP430 at heart.<br><a href="morse_gen.html">Read more</a></p></li>
