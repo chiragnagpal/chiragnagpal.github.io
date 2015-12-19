@@ -170,6 +170,8 @@ ul#menu li a:hover
 .sidebar
 { float: right;
   width: 190px;
+  border-style: none none solid solid;
+  border-color: #EEE;
   padding: 0 15px 20px 15px;}
 
 .sidebar ul
@@ -316,6 +318,6 @@ table tr th, table tr td
   text-align: left;}
   
 table tr td
-{ background: #E5E5DB;
+{ background: #EEE;
   color: #47433F;
   border-top: 1px solid #FFF;}
